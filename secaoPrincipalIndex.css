@@ -1,0 +1,23 @@
+.secaoPrincipalIndex {
+    padding: 3em 0;
+    width: 940px;
+    margin: 0 auto;
+}
+
+h2 {
+
+text-align: center;
+font-size: 2em;
+margin: 0 0 1em;
+clear: left;
+}
+
+p {
+    margin: 0 0 1em;
+}
+
+.micImagem {
+    width: 20%;
+    float: left;
+    margin: 0 20px 20px 0;
+}

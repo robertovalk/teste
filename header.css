@@ -1,0 +1,42 @@
+body {
+	overflow-x: hidden;
+	background: linear-gradient( transparent, #ff5d8f, #000);
+}
+
+header{
+	background: #000;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-family: 'pt sans';
+}
+
+.icone {
+	width: 20%;
+}
+
+nav ul {
+	display: inline-flex;
+}
+
+nav li {
+	margin-right: 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #56cfe1;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	transition-duration: 0.3ms;	
+}
+
+nav a:hover {
+    color: #ff5d8f;
+}
+
+.banner h1 {
+	font-family: 'pt sans';
+	padding: 35px;
+}
